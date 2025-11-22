@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4eea7d3de4c3d34db11c2a7c27b650d, type: 3}
+  m_Name: Tian
+  m_EditorClassIdentifier: 
+  itemId: 01
+  displayName: Tian
+  stackable: 1
+  icon: {fileID: 21300000, guid: 6a77e798061d07241b5485944153a841, type: 3}

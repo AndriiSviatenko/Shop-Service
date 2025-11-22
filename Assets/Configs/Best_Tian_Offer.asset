@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5787744424bc6aa4cb31a4bd50967a79, type: 3}
+  m_Name: Best_Tian_Offer
+  m_EditorClassIdentifier: 
+  offerId: 03
+  type: 1
+  item: {fileID: 11400000, guid: 3123950b717766342964b2dc8b47cd54, type: 2}
+  quantity: 1
+  basePrice:
+    Currency: 2
+    Amount: 0
+  enabled: 1
+  tags:
+  - B
